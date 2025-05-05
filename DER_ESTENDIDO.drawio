@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="iTK0nIs8eEKl5HLrY0HY">
-    <mxGraphModel dx="4765" dy="2908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="1687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TubKobpjzzUn3Yk9qgdD-193" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="921" y="896" width="284" height="279" as="geometry" />
-        </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-2" value="Cliente PF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-49" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -110,7 +107,7 @@
           <mxGeometry x="612.5" y="-351" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-34" value="Encomendas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="1043" width="120" height="60" as="geometry" />
+          <mxGeometry x="685" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388" y="-47" width="99" height="57" as="geometry" />
@@ -191,22 +188,22 @@
           <mxGeometry x="634" y="798" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-89" value="Carga_simples" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="908" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="948" y="832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-90" value="Carga_compostas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="916" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-92" value="ID_tipo_carga" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1026" width="99" height="57" as="geometry" />
+          <mxGeometry x="845" y="1061" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-94" value="Tipo_carga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1085.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="675" y="1120.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-101" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1087" width="99" height="57" as="geometry" />
+          <mxGeometry x="845" y="1122" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-102" value="Descrição" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1148" width="99" height="57" as="geometry" />
+          <mxGeometry x="845" y="1183" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-103" value="Caminhão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-731" y="217" width="120" height="60" as="geometry" />
@@ -227,13 +224,13 @@
           <mxGeometry x="-731" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-122" value="ID_encomenda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="986" width="99" height="57" as="geometry" />
+          <mxGeometry x="814" y="528" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-123" value="Destino" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="1044.5" width="99" height="57" as="geometry" />
+          <mxGeometry x="814" y="586.5" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-125" value="Responsável" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="1103" width="99" height="57" as="geometry" />
+          <mxGeometry x="814" y="645" width="99" height="57" as="geometry" />
         </mxCell>
         <mxCell id="TubKobpjzzUn3Yk9qgdD-129" value="Placa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-484" y="128" width="99" height="57" as="geometry" />
