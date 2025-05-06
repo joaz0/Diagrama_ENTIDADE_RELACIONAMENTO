@@ -102,6 +102,9 @@
         <mxCell id="0pBIexJM722hcekRti2B-69" value="Visita_domiciliar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0pBIexJM722hcekRti2B-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pBIexJM722hcekRti2B-70" target="0pBIexJM722hcekRti2B-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-70" value="Paciente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="535" width="120" height="60" as="geometry" />
         </mxCell>
@@ -202,31 +205,31 @@
           <mxGeometry x="-850" y="-100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-113" value="Doenca_cronica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="726" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-115" value="Cad_municipal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="-220" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-116" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="-220" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-117" value="Data_nasc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="500" width="100" height="40" as="geometry" />
+          <mxGeometry x="-220" y="605" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-120" value="Endereço" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-505" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="-495" y="570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-122" value="Estado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="520" width="100" height="40" as="geometry" />
+          <mxGeometry x="-630" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-123" value="CEP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="-630" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-124" value="Logradouro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="-630" y="570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-129" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-510" y="510" width="110" height="50" as="geometry" />
+          <mxGeometry x="-500" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-127" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0pBIexJM722hcekRti2B-129">
           <mxGeometry width="110" height="50" as="geometry" />
@@ -235,10 +238,10 @@
           <mxGeometry x="5" y="5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-130" value="Id_doenca" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="-360" y="816" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-131" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="800" width="100" height="40" as="geometry" />
+          <mxGeometry x="-240" y="796" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-133" value="Id_atendimento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="250" width="100" height="40" as="geometry" />
@@ -480,6 +483,12 @@
         </mxCell>
         <mxCell id="0pBIexJM722hcekRti2B-195" value="Realiza" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="405" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0pBIexJM722hcekRti2B-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pBIexJM722hcekRti2B-198" target="0pBIexJM722hcekRti2B-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pBIexJM722hcekRti2B-198" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-331.25" y="640" width="42.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
